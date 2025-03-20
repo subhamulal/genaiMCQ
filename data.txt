@@ -1,0 +1,1 @@
+The purpose of AIML is to simplify the task of dialog modeling and make it easier according to the stimulus-response approach. Artificial intelligence markup language is an XML-based markup language and it is a tag-based language. The tags are identifiers that make code snippets and insert commands in the chatbot.
